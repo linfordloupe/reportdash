@@ -16,7 +16,7 @@ function App({signOut, user}) {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <button onClick={signOut}>Sign Out Boi</button>
+        <button onClick={signOut}>Sign Out</button>
 <h1> Hello from v2 </h1>
 </header> 
     </div>
