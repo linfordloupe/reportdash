@@ -1,0 +1,12 @@
+{
+  "resourceName": "imagestore",
+  "policyUUID": "54452098",
+  "bucketName": "imagebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
